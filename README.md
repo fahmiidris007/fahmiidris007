@@ -12,17 +12,16 @@ End with various popular framework with applying Clean Architecture principle.
 ### Languages
 
 ![kotlin](https://img.shields.io/badge/Kotlin-00A7D0?style=for-the-badge&logo=kotlin&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![golang](https://img.shields.io/badge/Golang-00A7D0?style=for-the-badge&logo=golang&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Framework
 
+![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 ![hapi](https://img.shields.io/badge/Hapi.js-00A7D0?style=for-the-badge&logo=hapi&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-84BA41?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![gin-gonic](https://img.shields.io/badge/Gin%20Gonic-20232A?style=for-the-badge&logo=gin&logoColor=FFFFFF)
-![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 
 
 📈 **My GitHub Stats:**
