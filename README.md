@@ -3,9 +3,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahmi-idris-87ba22259/)
 
 ## About Me
-I am a Bachelor Degree at IPB University with a strong backgroud on Mobile App Development and Back End 
-Development. I have expert skills on developing Mobile Application (Android & IOS) using Native Kotlin / Multiplatform Flutter and developing Back 
-End with various popular framework with applying Clean Architecture principle.
+I am a Bachelor Degree at IPB University with a strong backgroud on Mobile App Development. I have expert skills on developing Mobile Application (Android & IOS) using Native Kotlin / Multiplatform Flutter. Now I contribute in IT industry as Mobile Developer (Flutter).
 
 ## 🛠️ Skills
 
